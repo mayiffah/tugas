@@ -24,6 +24,7 @@ import com.example.b04.model.KBI_Karyawan;
 import com.example.b04.model.Karyawan;
 import com.example.b04.service.KBIService;
 
+//halo
 @Controller
 public class KBIController {
 	
